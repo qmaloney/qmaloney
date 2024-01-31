@@ -2,8 +2,8 @@
 
 <h2>AWS Python Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Developed a Python Script to Calculate Averages of the Data Center Degaussing Machine to ensure Proper Media Destruction Regulations are adhered to.</b>
+  - [Degaussing Script](https://github.com/qmaloney/Degaussing-Script)
   - 
 
 
