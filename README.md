@@ -4,8 +4,11 @@
 
 - <b>Developed a Python Script to calculate test averages and organize test data to ensure Media Destruction Regulations are met with HDD Degaussing Equipment within Data Center Operations.</b>
   - [Degaussing Script](https://github.com/qmaloney/Degaussing-Script)
-  - 
-
+  
+- <b>Bin Seals</b>
+  - [Bin Seal Script](https://github.com/qmaloney/Bin-Seals)
+- <b>Barcode Verifier:</b>
+  - [Barcode Verifier](https://github.com/qmaloney/Barcode-Compare-Tool)
 
 <h2> Connect with me:</h2>
 
