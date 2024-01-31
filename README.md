@@ -2,7 +2,7 @@
 
 <h2>AWS Python Projects:</h2>
 
-- <b>Developed a Python Script to Calculate Averages of the Data Center Degaussing Machine to ensure Proper Media Destruction Regulations are adhered to.</b>
+- <b>Developed a Python Script to calculate test averages and organize test data to ensure Media Destruction Regulations are met with HDD Degaussing Equipment for Data Center Operations.</b>
   - [Degaussing Script](https://github.com/qmaloney/Degaussing-Script)
   - 
 
