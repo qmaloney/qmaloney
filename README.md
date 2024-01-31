@@ -1,4 +1,4 @@
-<h1>Hi, I'm Quinn! <br/><a href="https://github.com/qmaloney">Programmer</a>, <a href="https://www.linkedin.com/in/quinnmaloney">Aspiring InfoSec Leader</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Quinn! <br/><a href="https://github.com/qmaloney">Programmer</a>, <a href="https://www.linkedin.com/in/quinnmaloney">Aspiring InfoSec Leader</a>,
 
 <h2>Cyber Security Projects:</h2>
 
