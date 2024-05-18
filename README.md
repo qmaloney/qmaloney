@@ -10,7 +10,7 @@
 - <b>Barcode Verifier:</b>
   - [Barcode Verifier](https://github.com/qmaloney/Barcode-Compare-Tool)
 - <b>IP Extraction from Log Files:</b>
-  - [IP Extraction from Log Files](https://github.com/qmaloney/Barcode-Compare-Tool)
+  - [IP Extraction from Log Files](https://github.com/qmaloney/qmaloney/blob/main/Extracting%20IP's%20from%20Log%20Files)
 <h2> Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
